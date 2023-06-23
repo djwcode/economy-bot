@@ -1,0 +1,4 @@
+# Colors
+CMD_SUC = 0x27ab42
+CMD_ERR = 0xaa2738
+CMD_LOG = 0x7e43ec
